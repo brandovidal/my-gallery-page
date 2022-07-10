@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://ultra-baseball.surge.sh/">
+    <a href="https://my-gallery-page.pages.dev/">
       Demo
     </a>
     <span> | </span>
@@ -49,7 +49,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  [Live demo](https://ultra-baseball.surge.sh/)
+  [Live demo](https://my-gallery-page.pages.dev/)
 
 - What was your experience?
   I feel gratifying to be able to solve this challenge.
@@ -65,7 +65,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [HTML5](https://html5.org/)
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [Surge](https://surge.sh/)
+- [Cloud Flare Pages](https://pages.cloudflare.com/)
 
 ## Features
 
