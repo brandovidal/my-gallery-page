@@ -117,6 +117,5 @@ npm run clean
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@brandovidal](https://github.com/brandovidal)
+- Twitter [@brandovidal](https://twitter.com/_brandovidal)
